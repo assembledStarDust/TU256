@@ -1,5 +1,4 @@
 # Data Visualisation Assignment 2
-# Name: Andrew Gibbons
 # Student id: D20125638
 # Programme code: TU256
 # Class code: Data Visualisation SPEC9995: 2020-21
